@@ -15,9 +15,10 @@
 	  * price: 6*189 = $ 1134 
 	  * flight company: Frontier
 	  * ![map](https://github.com/another1s/trip_plan/blob/master/STLtoLAS.jpg)
-*Although our trip is a big budget project, it is obvious that we can do air plane for saving time and money*
-round trip flight information :
-	* ![roundtrip](https://github.com/another1s/trip_plan/blob/master/train.jpg)	
+* Although our trip is a big budget project, it is obvious that we can do air plane for saving time and money *
+* round trip flight information :
+
+	* ![roundtrip](https://github.com/another1s/trip_plan/blob/master/roundtrip.jpg)	
 
 * Intuitively, St-Louis should be a better start-point of a long-distance trip *
 * we assume that we will go to St-louis by MO-X, which cost 2hours and $300 in total *
